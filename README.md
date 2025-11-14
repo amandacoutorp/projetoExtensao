@@ -32,8 +32,8 @@ Aqui são apresentadas todas as documentações construídas durante o período 
 ##  Ferramentas Utilizadas
 - **VS Code**  
 - **GitHub**  
-- **Trello**  
-- **Figma**  
+- **Figma**
+- **Eclipse**
 
 ---
 
