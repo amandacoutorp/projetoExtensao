@@ -16,7 +16,7 @@ Além disso, o projeto busca **promover a inovação tecnológica no setor de al
 Aqui são apresentadas todas as documentações construídas durante o período de desenvolvimento do projeto.
 
  **Links para os documentos:**  
-- [Protótipo do Projeto](#)
+- [Protótipo do Projeto](https://www.figma.com/make/dBUksGZU9loP9JN9oMsAG6/Caf%C3%A9Perto-Website-Prototype?node-id=0-1&p=f&fullscreen=1)
 - [Pauta das Reuniões](https://docs.google.com/document/d/1BGGHmKxUv5jbo9scBNQU_ogbqJbDk4lwnDckkeWVBWs/edit?usp=drive_link)
 
 ---
