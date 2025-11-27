@@ -2,7 +2,10 @@
 
 ##  Introdução
 
-A página **Café Perto** tem como objetivo conectar os usuários às cafeterias da cidade de **João Pessoa**, auxiliando no fornecimento de informações e permitindo que explorem os estabelecimentos e descubram novas experiências.  A plataforma é integrada ao **Google Maps** e ao **Google Places**, garantindo maior precisão nos dados disponibilizados.
+A página Café Perto objetiva conectar os usuários às cafeterias da cidade de João
+Pessoa, auxiliando no fornecimento de informações, permitindo que estes explorem os
+estabelecimentos e encontrem novas experiências. A plataforma é integrada ao Google
+Maps e ao Google Places para gerar mais precisão nos dados disponibilizados.
 
 ---
 
