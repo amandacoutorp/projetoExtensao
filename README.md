@@ -16,8 +16,9 @@ Além disso, o projeto busca **promover a inovação tecnológica no setor de al
 Aqui são apresentadas todas as documentações construídas durante o período de desenvolvimento do projeto.
 
  **Links para os documentos:**  
-- [Protótipo do Projeto](https://www.figma.com/make/dBUksGZU9loP9JN9oMsAG6/Caf%C3%A9Perto-Website-Prototype?node-id=0-1&p=f&fullscreen=1)
+- [Protótipo do Projeto](https://www.figma.com/make/FIyPjufOkJj1S5BH57gSBs/Caf%C3%A9Perto-Website-Design?node-id=0-1&p=f&t=jnULFH8x7nEvavCb-0&fullscreen=1)
 - [Pauta das Reuniões](https://docs.google.com/document/d/1BGGHmKxUv5jbo9scBNQU_ogbqJbDk4lwnDckkeWVBWs/edit?usp=drive_link)
+- [Documentação do Projeto](https://docs.google.com/document/d/1cppSNBCUDVdDKAwCT8t4fl3IYkILc-MbPVO4x5sDit4/edit?usp=sharing)
 
 ---
 
@@ -45,12 +46,11 @@ Aqui serão apresentados todos os passos necessários para a utilização do pro
 3. **Copie** todo o conteúdo da pasta do projeto para dentro da nova pasta criada;  
 4. Abra o navegador e acesse:  
 
-Equipe:
+## Equipe
 
-Amanda Couto
+• Amanda Couto  
+• Katyanne Rakel  
+• Rafaella Porto   
+• Thais Gadelha 
 
-Katyanne Rakel
 
-Rafaella Porto
-
-Thais Gadelha
