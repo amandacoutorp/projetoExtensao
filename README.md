@@ -2,13 +2,11 @@
 
 ##  Introdução
 
-O **Aplicativo de uma cafeteria,** é um projeto de extensão desenvolvido com o objetivo de **reduzir os custos de delivery** tanto para os clientes quanto para a própria empresa.  
+A **Café Perto** é uma plataforma desenvolvida para facilitar a experiência de quem deseja conhecer e explorar cafeterias na cidade de João Pessoa. Pensada tanto para moradores quanto para visitantes, ela oferece uma forma simples e intuitiva de descobrir novos ambientes, visualizar informações importantes sobre cada local e encontrar opções que combinem com o estilo e a preferência de cada pessoa.
 
-A proposta consiste na criação de um **aplicativo móvel** que permite aos usuários **realizar pedidos diretamente pela plataforma**, escolher produtos do cardápio, **personalizar bebidas** e **acompanhar o status da entrega em tempo real**.  
+A ideia do projeto surgiu a partir da crescente busca por cafeterias como espaços de convivência, trabalho, lazer e apreciação de cafés especiais. Diante disso, a Café Perto busca reunir em um só lugar estabelecimentos que ofereçam boas experiências, permitindo que o usuário conheça melhor a cena cafeeira da cidade e tenha mais facilidade ao escolher onde visitar.
 
-Para a cafeteria, o sistema proporcionará **maior controle sobre os pedidos**, **organização das entregas** e **redução da dependência de plataformas terceirizadas**, diminuindo taxas e custos operacionais.  
-
-Além disso, o projeto busca **promover a inovação tecnológica no setor de alimentação**, oferecendo uma solução **prática, acessível e sustentável**, fortalecendo o relacionamento entre a cafeteria e seus clientes por meio de uma **plataforma digital moderna e i**
+Além de auxiliar na descoberta de novos espaços, a plataforma também contribui para aproximar o público dos estabelecimentos locais, fortalecendo o vínculo entre consumidores e cafeterias e incentivando a valorização do comércio da região. Com uma proposta clara e acessível, a Café Perto se apresenta como um guia prático e acolhedor para quem ama café e deseja explorar tudo o que João Pessoa tem a oferecer nesse universo.
 
 ---
 
