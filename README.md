@@ -23,9 +23,8 @@ Aqui são apresentadas todas as documentações construídas durante o período 
 
 ##  Linguagens Utilizadas
 - **HTML**  
-- **JavaScript**  
-- **Python**  
-- **Java**
+- **JavaScript**
+- **CSS**
 
 ---
 
@@ -33,7 +32,7 @@ Aqui são apresentadas todas as documentações construídas durante o período 
 - **VS Code**  
 - **GitHub**  
 - **Figma**
-- **Eclipse**
+
 
 ---
 
